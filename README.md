@@ -1,3 +1,10 @@
+# Archived repository
+
+This repository moved to
+[`Razumly/bracketiq`](https://github.com/Razumly/bracketiq/tree/main/apps/mobile).
+Use the consolidated repository for source code, issues, CI, and product
+documentation. This repository is a read-only history archive.
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
